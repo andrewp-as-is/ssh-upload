@@ -1,5 +1,4 @@
 [![](https://img.shields.io/badge/OS-Unix-blue.svg?longCache=True)]()
-[![](https://img.shields.io/pypi/pyversions/refork.svg?longCache=True)](https://pypi.org/project/refork/)
 [![](https://img.shields.io/pypi/v/refork.svg?maxAge=3600)](https://pypi.org/project/refork/)
 [![](https://img.shields.io/npm/v/refork.svg?maxAge=3600)](https://www.npmjs.com/package/refork)
 [![Travis](https://api.travis-ci.org/looking-for-a-job/refork.svg?branch=master)](https://travis-ci.org/looking-for-a-job/refork/)
