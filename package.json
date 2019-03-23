@@ -1,6 +1,6 @@
 {
   "name": "refork",
-  "version": "2019.02.19",
+  "version": "2019.3.22",
   "description": "re-fork git repo",
   "keywords": [
     "refork",
@@ -10,9 +10,5 @@
   "license": "Unlicense",
   "bin": {
     "refork": "./scripts/refork"
-  },
-  "os": [
-    "darwin",
-    "linux"
-  ]
+  }
 }
